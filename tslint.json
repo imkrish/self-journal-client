@@ -1,0 +1,13 @@
+{
+    "extends": [
+      "tslint-react-recommended",
+      "rxjs-tslint-rules"
+    ],
+    "rules": {
+        "semicolon": [
+          true, "never"
+        ],
+        "ter-indent": 4,
+        "no-submodule-imports": false
+    }
+}

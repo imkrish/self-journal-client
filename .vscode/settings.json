@@ -1,0 +1,21 @@
+{
+    "tsimporter.emitSemicolon": false,
+    "tsimporter.doubleQuotes": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        ".vscode": true,
+        "node_modules": false,
+        "package.json": false,
+        "**/**.js": false,
+        "tsconfig.json": true,
+        ".gitignore": true,
+        "tslint.json": false,
+        ".editorconfig": true,
+        "yarn.lock": true,
+        "dist": true
+    }
+}
